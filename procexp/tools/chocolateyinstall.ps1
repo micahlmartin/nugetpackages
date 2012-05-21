@@ -1,0 +1,1 @@
+Install-ChocolateyZipPackage 'procexp' 'http://download.sysinternals.com/files/ProcessExplorer.zip' "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"

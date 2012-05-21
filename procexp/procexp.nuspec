@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>procexp</id>
+    <title>Process Explorer</title>
+    <version>15.13</version>
+    <authors>Mark Russinovich</authors>
+    <owners>micahlmartin</owners>
+    <summary>Process Explorer shows you information about which handles and DLLs processes have opened or loaded.</summary>
+    <description>Ever wondered which program has a particular file or directory open? Now you can find out. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
+
+The Process Explorer display consists of two sub-windows. The top window always shows a list of the currently active processes, including the names of their owning accounts, whereas the information displayed in the bottom window depends on the mode that Process Explorer is in: if it is in handle mode you'll see the handles that the process selected in the top window has opened; if Process Explorer is in DLL mode you'll see the DLLs and memory-mapped files that the process has loaded. Process Explorer also has a powerful search capability that will quickly show you which processes have particular handles opened or DLLs loaded.
+
+The unique capabilities of Process Explorer make it useful for tracking down DLL-version problems or handle leaks, and provide insight into the way Windows and applications work.</description>
+    <projectUrl>http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx</projectUrl>
+    <tags>procexp admin tools sysinternals</tags>
+    <copyright></copyright>
+    <licenseUrl>http://technet.microsoft.com/en-us/sysinternals/bb469936</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://github.com/ferventcoder/nugetpackages/raw/master/procexp/procexp.gif</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+</package>
