@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Couchbase</id>
+    <title>Couchbase</title>
+    <version>1.8.0</version>
+    <authors>Couchbase</authors>
+    <owners>micahlmartin</owners>
+    <summary>Couchbase Server is a simple, fast, elastic, open-source NoSQL database.
+Simply select the platform of your choice to get going!</summary>
+    <description>Couchbase Server is a simple, fast, elastic, open-source NoSQL database.
+Simply select the platform of your choice to get going!</description>
+    <projectUrl>http://www.couchbase.com/</projectUrl>
+    <tags>couchbase</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.couchbase.com/terms-of-service</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://github.com/ferventcoder/nugetpackages/raw/master/couchbase/couchbase.gif</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+</package>
