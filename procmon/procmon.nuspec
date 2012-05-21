@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>procmon</id>
+    <title>Process Monitor</title>
+    <version>3.01</version>
+    <authors>Mark Russinovich, Bryce Cogswell</authors>
+    <owners>micahlmartin</owners>
+    <summary>Process Monitor is an advanced monitoring tool for Windows</summary>
+    <description>Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity. It combines the features of two legacy Sysinternals utilities, Filemon and Regmon, and adds an extensive list of enhancements including rich and non-destructive filtering, comprehensive event properties such session IDs and user names, reliable process information, full thread stacks with integrated symbol support for each operation, simultaneous logging to a file, and much more. Its uniquely powerful features will make Process Monitor a core utility in your system troubleshooting and malware hunting toolkit.</description>
+    <projectUrl>http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx</projectUrl>
+    <tags>procmon admin tools</tags>
+    <copyright></copyright>
+    <licenseUrl>http://technet.microsoft.com/en-us/sysinternals/bb469936</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://github.com/ferventcoder/nugetpackages/raw/master/procmon/procmon.gif</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+</package>
