@@ -3,8 +3,8 @@
   <metadata>
     <id>cyg-get</id>
     <title>cyg-get</title>
-    <version>1.0.4</version>
-    <authors>micahlmaritn</authors>
+    <version>1.0.5</version>
+    <authors>Redhat</authors>
     <owners>micahlmartin</owners>
     <summary></summary>
     <description>Installs a utility `cyg-get` that allows you to enter a comma seperated list of cygwin packages to install. `cyg-get openssh` or `cyg-get git,gitk,git-completion`.</description>
