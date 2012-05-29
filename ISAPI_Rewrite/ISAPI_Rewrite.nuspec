@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ISAPIRewrite</id>
+    <title>ISAPI_Rewrite</title>
+    <version>3.1.0068</version>
+    <authors>helicon</authors>
+    <owners>micahlmartin</owners>
+    <summary>ISAPI_Rewrite is Apache mod_rewrite compatible URL rewriter for Microsoft IIS.</summary>
+    <description>ISAPI_Rewrite is Apache mod_rewrite compatible URL rewriter for Microsoft IIS. It is used for search engine optimization, proxying another server's content, stopping hotlinking and strengthening server security. It supports distributed .htaccess configuration files, enhanced regular expressions and nearly all mod_rewrite features.</description>
+    <projectUrl>http://www.helicontech.com/isapi_rewrite/</projectUrl>
+    <tags>routing isapi iis admin urlrewriter</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.helicontech.com/isapi_rewrite/doc/license.htm</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://github.com/micahlmartin/nugetpackages/raw/master/logos/helicontech.png</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+</package>
