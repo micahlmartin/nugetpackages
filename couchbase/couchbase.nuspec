@@ -3,22 +3,19 @@
   <metadata>
     <id>Couchbase</id>
     <title>Couchbase</title>
-    <version>1.8.0</version>
+    <version>1.8.0.1</version>
     <authors>Couchbase</authors>
     <owners>micahlmartin</owners>
-    <summary>Couchbase Server is a simple, fast, elastic, open-source NoSQL database.
-Simply select the platform of your choice to get going!</summary>
-    <description>Couchbase Server is a simple, fast, elastic, open-source NoSQL database.
-Simply select the platform of your choice to get going!</description>
+    <summary>Couchbase Server is a simple, fast, elastic, open-source NoSQL database.</summary>
+    <description>Couchbase Server is a simple, fast, elastic, open-source NoSQL database.</description>
     <projectUrl>http://www.couchbase.com/</projectUrl>
-    <tags>couchbase</tags>
+    <tags>couchbase membase memcached keyvaluestore caching</tags>
     <copyright></copyright>
     <licenseUrl>http://www.couchbase.com/terms-of-service</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://github.com/ferventcoder/nugetpackages/raw/master/couchbase/couchbase.gif</iconUrl>-->
-    <!--<dependencies>
-      <dependency id="" version="" />
-    </dependencies>-->
-    <releaseNotes></releaseNotes>
+    <iconUrl>https://github.com/micahlmartin/nugetpackages/raw/master/logos/couchbase.png</iconUrl>
+    <releaseNotes>
+		Updated logo, tags, and description
+	</releaseNotes>
   </metadata>
 </package>
