@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>smtp4dev</id>
+    <title>smtp4dev</title>
+    <version>2.0.9</version>
+    <authors>rnwood</authors>
+    <owners>micahlmartin</owners>
+    <summary>Windows 7/Vista/XP/2003/2010 compatible dummy SMTP server</summary>
+    <description>Windows 7/Vista/XP/2003/2010 compatible dummy SMTP server. Sits in the system tray and does not deliver the received messages. The received messages can be quickly viewed, saved and the source/structure inspected. Useful for testing/debugging software that generates email.</description>
+    <projectUrl>http://smtp4dev.codeplex.com/</projectUrl>
+    <tags>smtp4dev tools mail dev</tags>
+    <copyright></copyright>
+    <licenseUrl>http://smtp4dev.codeplex.com/license</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl></iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+</package>
