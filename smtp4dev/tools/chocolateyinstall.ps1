@@ -1,1 +1,1 @@
-  Install-ChocolateyPackage 'smtp4dev' 'MSI' '/quiet' 'http://download.codeplex.com/Download/Release?ProjectName=smtp4dev&DownloadId=269148&FileTime=129575692536070000&Build=18924' -validExitCodes @(0)
+  Install-ChocolateyPackage 'smtp4dev' 'MSI' '/quiet' 'http://download.codeplex.com/Download/Release?ProjectName=smtp4dev&DownloadId=269148&FileTime=129575692536070000&Build=19031' -validExitCodes @(0)
