@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'puppet' 'MSI' '/qn' 'https://downloads.puppetlabs.com/windows/puppet-2.7.17.msi' -validExitCodes @(0)

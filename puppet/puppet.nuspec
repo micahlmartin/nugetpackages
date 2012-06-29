@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>puppet</id>
+    <title>Puppet</title>
+    <version>2.7.17</version>
+    <authors>Puppet Labs</authors>
+    <owners>micahlmartin</owners>
+    <summary>Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to patch management and compliance</summary>
+    <description>Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to patch management and compliance. Using Puppet, you can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from 10s of servers to 1000s, on-premise or in the cloud.</description>
+    <projectUrl>http://puppetlabs.com/</projectUrl>
+    <tags>puppet configuration management infrastructure</tags>
+    <copyright>2012 Puppet Labs</copyright>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://www.puppetlabs.com/wp-content/uploads/2010/12/Puppet-Labs-Logo-Vertical-Sm.png</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+</package>
