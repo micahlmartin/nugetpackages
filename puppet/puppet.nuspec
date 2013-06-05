@@ -1,22 +1,29 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>puppet</id>
     <title>Puppet</title>
-    <version>2.7.17</version>
+    <!--  <version>2.7.21</version> -->
+    <version>3.2.1</version>
     <authors>Puppet Labs</authors>
-    <owners>micahlmartin</owners>
+    <owners>micahlmartin, Rob Reynolds</owners>
     <summary>Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to patch management and compliance</summary>
-    <description>Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to patch management and compliance. Using Puppet, you can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from 10s of servers to 1000s, on-premise or in the cloud.</description>
-    <projectUrl>http://puppetlabs.com/</projectUrl>
+    <description>Puppet Open Source is a flexible, customizable framework available under the Apache 2.0 license designed to help system administrators automate the many repetitive tasks they regularly perform. As a declarative, model-based approach to IT automation, it lets you define the desired state - or the "what" - of your infrastructure using the Puppet configuration language. Once these configurations are deployed, Puppet automatically installs the necessary packages and starts the related services, and then regularly enforces the desired state. In automating the mundane, Puppet frees you to work on more challenging projects with higher business impact.
+
+Puppet Open Source is the underlying technology for Puppet Enterprise and runs on all major Linux distributions, major Unix platforms like Solaris, HP-UX, and AIX, and Microsoft Windows.</description>
+    <projectUrl>https://puppetlabs.com/puppet/puppet-open-source/</projectUrl>
     <tags>puppet configuration management infrastructure</tags>
-    <copyright>2012 Puppet Labs</copyright>
+    <copyright>2013 Puppet Labs</copyright>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>http://www.puppetlabs.com/wp-content/uploads/2010/12/Puppet-Labs-Logo-Vertical-Sm.png</iconUrl>
+    <iconUrl>http://www.puppetlabs.com/wp-content/uploads/2010/12/PL_logo_vertical_RGB_sm.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
     <releaseNotes></releaseNotes>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
 </package>
